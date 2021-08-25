@@ -1,0 +1,52 @@
+  .heading
+  {
+    font-size: 24;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Roboto Mono', monospace;
+  }
+  .heading_div
+  {
+    float: none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    padding: 10px;
+    font-family: 'Roboto Mono', monospace;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    font-family: 'Roboto Mono', monospace;
+  }
+  .result_para_tag 
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    
+    font-family: 'Roboto Mono', monospace; 
+  }
+  .result_para_tag span
+  {
+    white-space: pre-line;
+  }
+  .copy_right_footer
+  {
+    bottom:0px;
+    position: fixed;
+    color: white;
+    width:100%;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+  }
+  canvas
+  {
+   box-shadow:  grey 5px 5px 5px;
+   border-radius: 20px;
+   margin-top: 55px;
+   border: 5px  solid #1E81B0;
+  }
+ 
